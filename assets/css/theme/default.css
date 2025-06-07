@@ -1,0 +1,94 @@
+.btn.btn-theme {
+    background: #00acac;
+    border-color: #00acac;
+    color: #fff;
+}
+.btn.btn-theme:hover,
+.btn.btn-theme:focus {
+    background: #008a8a;
+    border-color: #008a8a;
+}
+.header-nav .nav > li.active > a, 
+.header-nav .nav > li.active > a:focus, 
+.header-nav .nav > li.active > a:hover,
+.item.item-thumbnail .item-price,
+.header-logo a span,
+a {
+    color: #00acac;
+}
+.header-cart .total,
+.step.active .number:before {
+    background: #00acac;
+}
+.header .dropdown-menu {
+    border-top-color: #00acac;
+}
+.dropdown .arrow.top:after, 
+.dropdown .arrow.top:before {
+    border-bottom-color: #00acac;
+}
+a:hover,
+a:focus {
+    color: #008a8a;
+}
+.pace-progress {
+    background: #008a8a;
+}
+.pace .pace-activity {
+    border-top-color: #00acac;
+    border-left-color: #00acac;
+}
+.header-logo .brand {
+    border-color: #4DCACA #31A3A3 #1D8888;
+}
+
+#LikeBtn {
+    background-image: none;
+}
+
+#LikeBtn:after {
+    font-family: "FontAwesome";
+    content: "\f087";
+    display: inline-block;
+    opacity: 0.5;
+    color: rgba(20, 20, 20, 0.78)
+}
+
+#LikeBtn:hover:after {
+    -webkit-transform: rotate(400deg);
+    -moz-transform: rotate(400deg);
+    -o-transform: rotate(400deg);
+    -ms-transform: rotate(400deg);
+    transform: rotate(400deg);
+    -webkit-transform: rotate(400deg);
+    -moz-transform: rotate(400deg);
+    -ms-transform: rotate(400deg);
+    -o-transform: rotate(400deg);
+    transition: all 0.35s;
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    -ms-transition: all 0.35s;
+    -o-transition: all 0.35s;
+    cursor: pointer;
+    color: #00acac
+}
+/*
+     FILE ARCHIVED ON 08:47:16 Oct 15, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:13:40 Nov 18, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.519
+  exclusion.robots: 0.016
+  exclusion.robots.policy: 0.008
+  esindex: 0.011
+  cdx.remote: 8.598
+  LoadShardBlock: 69.101 (3)
+  PetaboxLoader3.datanode: 79.249 (4)
+  load_resource: 1155.809
+  PetaboxLoader3.resolve: 1137.712
+*/
